@@ -1,2 +1,2 @@
 # Driver-Scanpath-Prediction
-![](https://github.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/images/8.jpg)
+![](https://github.com/WONGCHIYAN612/Driver-Scanpath-Prediction/blob/main/visualization/fovea.png)https://github.com/WONGCHIYAN612/Driver-Scanpath-Prediction/blob/main/visualization/fovea.png)
